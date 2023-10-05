@@ -17,5 +17,7 @@ public class Degiskenler1 {
         int toplam;
         toplam=a*b+c;
         System.out.println("toplam = " + toplam);
+        
+        
     }
 }
